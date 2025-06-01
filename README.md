@@ -17,4 +17,13 @@ Here are some ideas to get you started:
 
 
 #### My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipiw20&locale=id&title_color=F564A9&bg_color=DEG,COLOR3)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=pipiw20&locale=id&title_color=7D1C4A&bg_color=DEG,9B59B6,FFD0C7&text_color=E3D2C3&theme=dark" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pipiw20&locale=id&title_color=8B008B&bg_color=DEG,FFD1FF,FAD0C4&theme=default" 
+    alt="Statistik GitHub pipiw20" />
+</picture>
+
+
