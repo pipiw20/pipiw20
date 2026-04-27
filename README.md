@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Halo, saya [Nama Kamu] 👋
+# Halo, saya [Safira Muztasyifa Syah] 👋
 
 🎓 Mahasiswa Sistem Informasi  
 📱 Mobile Developer (React Native)  
