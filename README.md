@@ -1,55 +1,69 @@
 ## Hi there 👋
+# Halo, saya Firaa 👋
 
-# Halo, saya [Safira Muztasyifa Syah] 👋
-
-🎓 Mahasiswa Sistem Informasi  
-📱 Mobile Developer (React Native)  
-💻 Tertarik pada pengembangan aplikasi mobile & web  
+🎓 Mahasiswa Sistem Informasi
+📱 Mobile Developer (React Native)
+🚀 Aktif di Dipanegara Computer Club
 
 ---
 
 ## 🚀 Tentang Saya
-Saya adalah mahasiswa yang aktif di Dipanegara Computer Club dan memiliki pengalaman dalam pengembangan aplikasi mobile menggunakan React Native. Saya telah mengerjakan beberapa project, baik individu maupun tim, termasuk aplikasi pelayanan kesehatan berbasis mobile.
+
+Saya adalah mahasiswa Sistem Informasi yang memiliki minat dalam pengembangan aplikasi mobile. Saya telah mengembangkan beberapa aplikasi menggunakan React Native dan berpengalaman bekerja dalam tim project, termasuk pengembangan sistem LP2S.
+
+Saat ini, saya sedang mengembangkan aplikasi pelayanan kesehatan berbasis mobile.
 
 ---
 
 ## 🛠️ Tech Stack
-- React Native
-- JavaScript
-- Node.js (jika ada)
-- Git & GitHub
+
+* React Native
+* JavaScript
+* Git & GitHub
+* Basic UI/UX
 
 ---
 
 ## 📱 Project Unggulan
 
-### 1. Aplikasi Catatan Harian
-📌 Aplikasi untuk mencatat aktivitas harian pengguna  
+### 📘 Daily Notes App
 
-🔧 Fitur:
-- Tambah, edit, hapus catatan
-- Penyimpanan lokal
-- UI sederhana dan responsif  
+Aplikasi catatan harian berbasis mobile
 
-🔗 Demo / Repo: [link repo]
+✨ Fitur:
+
+* Tambah, edit, hapus catatan
+* Penyimpanan data lokal
 
 ---
 
-### 2. Aplikasi Pelayanan Kesehatan (On Going)
-📌 Aplikasi mobile untuk pelayanan kesehatan  
+### 🏥 Health Service App (On Going)
 
-🔧 Fitur:
-- Booking layanan
-- Data pasien
-- (tambahkan sesuai project kamu)
+Aplikasi pelayanan kesehatan berbasis mobile
 
-🔗 Repo: [link repo]
+✨ Fitur:
+
+* Booking layanan
+* Data pasien
+* (lanjutkan sesuai project kamu)
+
+---
+
+### 🧩 LP2S Project
+
+Project berbasis tim dalam pengembangan sistem
 
 ---
 
 ## 📫 Kontak
-- Email: kamu@email.com
-- LinkedIn: (isi link kamu)
+
+* Email: [safira.syah28@gmail.com](mailto:safira.syah28@gmail.com)
+* LinkedIn: linkedin.com/in/SafiraMuztasyifaSyah
+
+---
+
+⭐ Terbuka untuk kesempatan magang & kolaborasi
+
 
 <!--
 **pipiw20/pipiw20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
